@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 style="color:blue;text-align:center;">_robobunny</h1>
-  <p style="color:red;">This is my cool Readme</p>
+<p style="color:red;">This is my cool Readme</p>
 
 <!--
 **robobunny/robobunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
