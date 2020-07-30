@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ## But my real name is William.
 
 William C. Duraney
-linkedin.com/in/william-duraney
 
-Check out my profile site! 
-robobunny.surge.sh
+[Catch me on LinkedIn](https://linkedin.com/in/william-duraney)
+
+[Check out my profile site!](https://robobunny.surge.sh)
 
 > I help computers help people
