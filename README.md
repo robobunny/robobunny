@@ -13,3 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I'm _robobunny
+
+## But my real name is William.
+
+William C. Duraney
+linkedin.com/in/william-duraney
+
+Check out my profile site! 
+robobunny.surge.sh
+
+> I help computers help people
