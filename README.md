@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 William C. Duraney
 
-[Catch me on LinkedIn](https://linkedin.com/in/william-duraney)
-
 [Check out my profile site!](https://robobunny.surge.sh)
 
 ## I help computers help people
+
+I am seeking an entry-level position as a software developer at a people-centered organization. Any leads? [Hit me up on LinkedIn](https://linkedin.com/in/william-duraney)!
