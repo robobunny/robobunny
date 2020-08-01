@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm _robobunny
+# I'm _robobunny_
 
 ## But my real name is William.
 
@@ -24,4 +24,4 @@ William C. Duraney
 
 [Check out my profile site!](https://robobunny.surge.sh)
 
-> I help computers help people
+## I help computers help people
