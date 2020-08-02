@@ -1,8 +1,3 @@
-
-<!--
-**robobunny/robobunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
-
 # I'm _robobunny_
 
 ## But my real name is William.
@@ -30,4 +25,5 @@ I am seeking an entry-level position as a software developer at a people-centere
   - MongoDB
   - AWS (just started learning)
   - GoLang (Next on my list to start learning)
+
 </details>
