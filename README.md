@@ -1,6 +1,6 @@
 # I'm William Duraney
 
-![My profile pic](./profile-pic-park-512.png =250x) ![My brand logo](./bunny-fill-512-sq.png =250x)
+![My profile pic](./profile-pic-park-512.png) ![My brand logo](./bunny-fill-512-sq.png)
 
 ## About Me:
 
