@@ -1,6 +1,6 @@
 # I'm William Duraney
 
-![](./profile-pic-park-512.png = 200x200) ![](./bunny-fill-512-sq.png = 200x200)
+![](./profile-pic-park-512.png | width = 200) ![](./bunny-fill-512-sq.png = 200x200)
 
 ## About Me:
 
