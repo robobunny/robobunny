@@ -7,12 +7,10 @@
   style="float:left;"
 />
 
-Here's a whole bunch of text. Here's a whole bunch of text. Here's a whole bunch of text. Here's a whole bunch of text. Here's a whole bunch of text. Here's a whole bunch of text. Here's a whole bunch of text. Here's a whole bunch of text.Here's a whole bunch of text. Here's a whole bunch of text. Here's a whole bunch of text. Here's a whole bunch of text. Here's a whole bunch of text. Here's a whole bunch of text.Here's a whole bunch of text. Here's a whole bunch of text. Here's a whole bunch of text.Here's a whole bunch of text.Here's a whole bunch of text.Here's a whole bunch of text. Here's a whole bunch of text.Here's a whole bunch of text. 
-
-## About Me:
+## If I were an app:
 
 ```js
-export default class WilliamDuraney {
+export default class WilliamDuraney extends SoftwareEngineer {
   constructor () {
     skillSet: {
       personal: [
