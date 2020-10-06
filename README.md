@@ -4,14 +4,14 @@
   src="https://raw.githubusercontent.com/robobunny/robobunny/master/profile-pic-park-512.png" 
   width="200"
   alt="William C. Duraney sits in a park, looking off to the left with a dumbish look on his face. He has likely just eaten something not quite putrid, yet not quite fresh, or perhaps he has just read a passage from Kierkegaard."
-  style="margin-right:15px;float:left;"
+  style="margin-right:15px;display:inline-block;"
 />
 
 <img 
   src="https://raw.githubusercontent.com/robobunny/robobunny/master/profile-pic-park-512.png" 
   width="200"
   alt="William C. Duraney sits in a park, looking off to the left with a dumbish look on his face. He has likely just eaten something not quite putrid, yet not quite fresh, or perhaps he has just read a passage from Kierkegaard."
-  style="margin-left:15px;float:right;"
+  style="margin-left:15px;display:inline-block;"
 />
 
 ## About Me:
