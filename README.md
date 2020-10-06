@@ -1,6 +1,6 @@
 # I'm William Duraney
 
-![](./profile-pic-park-512.png | width=200) ![](./bunny-fill-512-sq.png = 200x200)
+<img src="https://www.github.com/robobunny/robobunny/profile-pic-park-512.png" width="200" />
 
 ## About Me:
 
