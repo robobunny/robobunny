@@ -1,6 +1,10 @@
 # I'm William Duraney
 
-<img src="https://raw.githubusercontent.com/robobunny/robobunny/master/profile-pic-park-512.png" width="200" />
+<img 
+  src="https://raw.githubusercontent.com/robobunny/robobunny/master/profile-pic-park-512.png" 
+  width="200"
+  alt="William C. Duraney sits in a park, looking off to the left with a dumbish look on his face. He has likely just eaten something not quite putrid, yet not quite fresh, or perhaps he has just read a passage from Kierkegaard."
+/>
 
 ## About Me:
 
