@@ -13,7 +13,7 @@
 ```js
 export default class WilliamDuraney extends SoftwareEngineer {
   constructor () {
-    skillSet: {
+    this.skillSet: {
       personal: [
         "Quick learner", "Clean coder",
         "Professionalism", "Team Player",
@@ -30,7 +30,7 @@ export default class WilliamDuraney extends SoftwareEngineer {
         ]
       },
     },
-    codingExperience: {
+    this.codingExperience: {
       startDate: 2020-01,
       title: "Freelance Web Designer",
       responsibilities: [
@@ -40,8 +40,8 @@ export default class WilliamDuraney extends SoftwareEngineer {
         "Connect clients to full-stack deployment services to provide cost-effective, individualized solutions.",
       ]
     },
-    hobbies: ["Soccer", "Cycling", "Coffee", "Music"],
-    contactInfo: {
+    this.hobbies: ["Soccer", "Cycling", "Coffee", "Music"],
+    this.contactInfo: {
       email: "william.duraney@gmail.com",
       phone: "614-598-6090",
       linkedIn: "www.linkedin.com/in/william-duraney",
