@@ -77,8 +77,8 @@ export default class WilliamDuraney extends SoftwareEngineer {
 
 ## I help computers help people
 
-[Check out my profile site!](https://robobunny.surge.sh)
+[Check out my profile site!](https://billyd.dev)
 
-I am seeking an entry-level position as a software developer at a people-centered organization.
+I am seeking a position as a software developer at a people-centered organization!
 
 Any leads? [Hit me up on LinkedIn](https://linkedin.com/in/william-duraney)!
