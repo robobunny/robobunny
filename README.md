@@ -7,6 +7,7 @@
     alt="William C. Duraney sits in a park, looking off to the left with a dumbish look on his face. He has likely just eaten something not quite putrid, yet not quite fresh, or perhaps he has just read a passage from Kierkegaard."
   />
 </p>
+<p>Check out my <a href="https://billyd.dev" alt="Link to my profile site">profile site</a></p>
 
 ## If I were an app:
 
