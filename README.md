@@ -2,6 +2,7 @@
 <p align="center" width="100%">
   <img 
     class="image"
+    width="100%"           
     src="https://raw.githubusercontent.com/robobunny/robobunny/master/2020-12-15%2013-09-06.gif" 
     style="float:left;"
     alt="William C. Duraney | Fullstack Javascript Developer | www.github.com/robobunny"
