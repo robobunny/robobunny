@@ -2,10 +2,9 @@
 <p align="center" width="100%">
   <img 
     class="image"
-    src="https://raw.githubusercontent.com/robobunny/robobunny/master/bunny-fill-512-sq.png" 
-    width="200"
+    src="https://raw.githubusercontent.com/robobunny/robobunny/master/2020-12-15%2013-09-06.gif" 
     style="float:left;"
-    alt="William C. Duraney sits in a park, looking off to the left with a dumbish look on his face. He has likely just eaten something not quite putrid, yet not quite fresh, or perhaps he has just read a passage from Kierkegaard."
+    alt="William C. Duraney | Fullstack Javascript Developer | www.github.com/robobunny"
   />
 </p>
 
