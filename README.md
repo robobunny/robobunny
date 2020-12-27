@@ -1,9 +1,9 @@
 # I'm William Duraney
 <p align="center" width="100%">
-  <img 
+  <img
     class="image"
-    width="100%"           
-    src="https://raw.githubusercontent.com/robobunny/robobunny/master/2020-12-15%2013-09-06.gif" 
+    width="100%"
+    src="https://raw.githubusercontent.com/robobunny/robobunny/master/2020-12-15%2013-09-06.gif"
     style="float:left;"
     alt="William C. Duraney | Fullstack Javascript Developer | www.github.com/robobunny"
   />
@@ -18,7 +18,7 @@ I am a self-taught Javascript developer with experience building and maintaining
 ```js
 export default class WilliamDuraney extends SoftwareEngineer {
   constructor () {
-    this.skillSet: {
+    this.skillSet = {
       personal: [
         "Quick learner", "Clean coder",
         "Professionalism", "Team Player",
@@ -34,8 +34,8 @@ export default class WilliamDuraney extends SoftwareEngineer {
           "Vue.js", "Next.js", "RubyOnRails"
         ]
       },
-    },
-    this.codingExperience: {
+    };
+    this.codingExperience = {
       startDate: 2020-01,
       title: "Freelance Web Designer",
       responsibilities: [
@@ -44,15 +44,16 @@ export default class WilliamDuraney extends SoftwareEngineer {
         "Develop responsive, interactive websites with a mobile-first design strategy.",
         "Connect clients to full-stack deployment services to provide cost-effective, individualized solutions.",
       ]
-    },
-    this.hobbies: ["Soccer", "Cycling", "Coffee", "Music"],
-    this.contactInfo: {
+    };
+    this.hobbies = ["Soccer", "Cycling", "Coffee", "Music"];
+    this.contactInfo = {
       email: "william.duraney@gmail.com",
       phone: "614-598-6090",
       linkedIn: "www.linkedin.com/in/william-duraney",
       gitHub: "www.github.com/robobunny"
     }
-  },
+  }
+
   workOn(projects) {
     for (let project of projects) {
       provide(skillSet)
@@ -60,7 +61,8 @@ export default class WilliamDuraney extends SoftwareEngineer {
       provide(communication)
       return valueToYourTeam
     }
-  },
+  }
+
   contactMe() {
     const valueProvided = this.workOn(yourTeamsProjects)
     const shouldYouHireMe = valueProvided > salary ? true : false
@@ -75,7 +77,7 @@ export default class WilliamDuraney extends SoftwareEngineer {
         subject: "Howdy!"
       })
     }
-  },
+  }
 }
 ```
 
